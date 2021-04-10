@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Parallel_Dirikhle", "Parallel_Dirikhle.vcxproj", "{BBE64A40-3EE6-4F3F-B892-5257A4E4BABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE64A40-3EE6-4F3F-B892-5257A4E4BABD}.Debug|x64.ActiveCfg = Debug|x64
+		{BBE64A40-3EE6-4F3F-B892-5257A4E4BABD}.Debug|x64.Build.0 = Debug|x64
+		{BBE64A40-3EE6-4F3F-B892-5257A4E4BABD}.Debug|x86.ActiveCfg = Debug|Win32
+		{BBE64A40-3EE6-4F3F-B892-5257A4E4BABD}.Debug|x86.Build.0 = Debug|Win32
+		{BBE64A40-3EE6-4F3F-B892-5257A4E4BABD}.Release|x64.ActiveCfg = Release|x64
+		{BBE64A40-3EE6-4F3F-B892-5257A4E4BABD}.Release|x64.Build.0 = Release|x64
+		{BBE64A40-3EE6-4F3F-B892-5257A4E4BABD}.Release|x86.ActiveCfg = Release|Win32
+		{BBE64A40-3EE6-4F3F-B892-5257A4E4BABD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE53CEDC-2114-4B7D-AEB3-727AB18826CF}
+	EndGlobalSection
+EndGlobal
