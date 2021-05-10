@@ -14,10 +14,11 @@
 
 | Algorithm | Version | Container type | Number of elements | Digits in number | Sort time in seconds |
 | --- | --- | --- | --- | --- | --- |
-| std::sort | Simple | STL vector | 10000000 | 5 | 2.156 | 
-| std::sort | Sequential | STL vector | 10000000 | 5 | 0.547 | 
-| std::sort | Sequential | STL vector | 10000000 | 5 | 0.323 | 
-| std::sort | Sequential | STL vector | 10000000 | 5 | 0.319 | 
-| std::sort | Sequential | STL vector | 10000000 | 5 | 0.183 | 
-| std::sort | Sequential | STL vector | 10000000 | 5 | 0.674 | 
-| std::sort | Sequential | STL vector | 10000000 | 5 | 12.92 | 
+| std::sort | Simple | STL vector | 10000000 | 5 | 4.826 | 
+| std::sort | Sequential | STL vector | 10000000 | 5 | 2.531 | 
+| std::sort | Sequential | STL vector | 10000000 | 5 | 0.844 | 
+| std::sort | Sequential | STL vector | 10000000 | 5 | 0.815 | 
+| std::sort | Sequential | STL vector | 10000000 | 5 | 0.747 | 
+| std::sort | Sequential | STL vector | 10000000 | 5 | 0.65 | 
+| std::sort | Sequential | STL vector | 10000000 | 5 | 1.831 | 
+| std::sort | Sequential | STL vector | 10000000 | 5 | 0.425 | 
